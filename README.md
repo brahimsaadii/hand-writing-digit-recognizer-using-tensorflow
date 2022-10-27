@@ -1,0 +1,1 @@
+# simple-neural-network-for-mnist-dataset-classification
