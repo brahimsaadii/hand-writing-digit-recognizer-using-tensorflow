@@ -1,1 +1,1 @@
-# simple-neural-network-for-mnist-dataset-classification
+# hand writing digit recognizer using tensorflow
